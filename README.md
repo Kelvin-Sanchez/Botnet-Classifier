@@ -1,4 +1,4 @@
-# Botnet-Classifier
+# Machine Learning Botnet-Classifier
 Random Forest and Multi-layer Perceptron Botnet Classifier
 
 Datasets provided by https://research.unsw.edu.au/projects/bot-iot-dataset
